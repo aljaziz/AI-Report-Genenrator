@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain_core
+langchain-groq
+streamlit
+python-dotenv
+pypdf
+langgraph
+pydantic
